@@ -38,3 +38,9 @@ ON YOUR COMPUTER:
  					https://www.realvnc.com/download/viewer/
 
 10) Connect With raspberry:[numberHere]
+
+11) In COMPUTER'S Terminal type :
+
+					$ ssh pi@raspberry
+
+DONE!
