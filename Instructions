@@ -1,8 +1,6 @@
 How to use a Raspberry Pi Zero without a monitor !
-
 My VNC LICENSE KEY : KD264-D4RY3-F2ERH-72F6N-A9V3A
-
-ON THE PI ZERO (Ironically the Pi will need to be connected to a monitor for the following steps) : 
+(Ironically the Pi will need to be connected to a monitor for the following steps) 
 
 
 1) Download Hardware to make Pi headless from VNC :
