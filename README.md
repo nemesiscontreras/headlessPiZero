@@ -10,4 +10,4 @@ How to run access the terminal on the Raspberry Pi Zero from A Mac
 
 
 On your Mac go to : 
-Finder —>Go—> Connect to Server—>        vnc://pi@IPofPiHere5901
+Finder —>Go—> Connect to Server—>        vnc://pi@IPofPiHere:5901
